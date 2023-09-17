@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+* {
+	@apply transition-all duration-300;
+}
+
 h1 {
 	@apply text-6xl;
 }
