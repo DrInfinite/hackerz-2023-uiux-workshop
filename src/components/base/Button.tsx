@@ -1,4 +1,4 @@
-import { ButtonProps } from '@/hackerz/types';
+import { ButtonProps } from '@/hackerz/types/base';
 
 function Button({ type, children, ...props }: ButtonProps) {
 	return (

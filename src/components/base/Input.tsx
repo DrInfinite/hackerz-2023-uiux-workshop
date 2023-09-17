@@ -1,4 +1,4 @@
-import { InputProps } from '@/hackerz/types';
+import { InputProps } from '@/hackerz/types/base';
 
 export function Input({ type, placeholder, ...props }: InputProps) {
 	return (

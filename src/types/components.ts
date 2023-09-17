@@ -1,7 +1,7 @@
 import { HTMLInputTypeAttribute, ReactNode } from 'react';
 
-export type FormElementProps = {
+export interface FormElementProps {
 	label: ReactNode;
 	type?: HTMLInputTypeAttribute;
 	placeholder?: string;
-};
+}

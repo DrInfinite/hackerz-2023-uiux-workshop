@@ -1,4 +1,4 @@
-import { FormElementProps } from '@/hackerz/types';
+import { FormElementProps } from '@/hackerz/types/components';
 import { Input, Label, Span } from './base';
 
 function FormElement({ label, type, placeholder }: FormElementProps) {

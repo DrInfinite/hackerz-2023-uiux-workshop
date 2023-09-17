@@ -1,4 +1,4 @@
-import { TextareaProps } from '@/hackerz/types';
+import { TextareaProps } from '@/hackerz/types/base';
 
 function Textarea({ rows, ...props }: TextareaProps) {
 	return (

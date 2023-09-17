@@ -1,4 +1,4 @@
-import { SelectProps } from '@/hackerz/types';
+import { SelectProps } from '@/hackerz/types/base';
 
 function Select({ children, ...props }: SelectProps) {
 	return (

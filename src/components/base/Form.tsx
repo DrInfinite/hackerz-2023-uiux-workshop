@@ -1,4 +1,4 @@
-import { FormProps } from '@/hackerz/types';
+import { FormProps } from '@/hackerz/types/base';
 
 function Form({ children, ...props }: FormProps) {
 	return (

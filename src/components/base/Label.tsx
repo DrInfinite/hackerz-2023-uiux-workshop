@@ -1,4 +1,4 @@
-import { LabelProps } from '@/hackerz/types';
+import { LabelProps } from '@/hackerz/types/base';
 
 function Label({
 	children,

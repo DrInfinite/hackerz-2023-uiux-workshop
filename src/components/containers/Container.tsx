@@ -1,4 +1,4 @@
-import { DivProps as ContainerProps } from '@/hackerz/types';
+import { DivProps as ContainerProps } from '@/hackerz/types/containers';
 
 function Container({ children }: ContainerProps) {
 	return (

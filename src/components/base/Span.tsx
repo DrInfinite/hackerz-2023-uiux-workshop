@@ -1,4 +1,4 @@
-import { SpanProps } from '@/hackerz/types';
+import { SpanProps } from '@/hackerz/types/base';
 
 function Span({ children, className, ...props }: SpanProps) {
 	return (
