@@ -1,4 +1,5 @@
 import {
+	Button,
 	Checkbox,
 	Form,
 	Label,
@@ -52,6 +53,7 @@ export default function Home() {
 									<Span>Email me news and special offers</Span>
 								</Label>
 							</Block>
+							<Button type="submit">Submit</Button>
 						</Form>
 					</div>
 				</div>
